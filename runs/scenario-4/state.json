@@ -1,0 +1,86 @@
+{
+  "status": "needs_attention",
+  "attempts": 2,
+  "turns": 7,
+  "decision": "approve",
+  "approved_quote": {
+    "venue_id": "V-HUB",
+    "cost_kzt": 350000
+  },
+  "selected_venue": "V-HUB",
+  "quote": {
+    "venue_id": "V-HUB",
+    "cost_kzt": 350000
+  },
+  "skill_activated": true,
+  "bulletin": "",
+  "checkpoint": "book",
+  "token_usage": {
+    "calls": 1,
+    "calls_started": 1,
+    "input_tokens": 1755,
+    "output_tokens": 8,
+    "total_tokens": 1763,
+    "cost_usd": 0.0,
+    "reserved_usd": 0.0,
+    "model": "qwen3-vl:30b-a3b-instruct",
+    "provider": "ollama"
+  },
+  "reason": "no_capacity",
+  "assignments": [
+    {
+      "team_id": "T-01",
+      "track": "ai-agents",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "11:00-11:30",
+      "pitch_slot": "16:00-16:15"
+    },
+    {
+      "team_id": "T-02",
+      "track": "ai-agents",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "11:30-12:00",
+      "pitch_slot": "16:15-16:30"
+    },
+    {
+      "team_id": "T-03",
+      "track": "ai-agents",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "12:00-12:30",
+      "pitch_slot": "16:30-16:45"
+    },
+    {
+      "team_id": "T-04",
+      "track": "fintech",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "11:00-11:30",
+      "pitch_slot": "16:00-16:15"
+    },
+    {
+      "team_id": "T-05",
+      "track": "fintech",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "11:30-12:00",
+      "pitch_slot": "16:15-16:30"
+    },
+    {
+      "team_id": "T-06",
+      "track": "fintech",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "12:00-12:30",
+      "pitch_slot": "16:30-16:45"
+    }
+  ]
+}

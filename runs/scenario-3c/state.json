@@ -1,0 +1,21 @@
+{
+  "status": "new",
+  "attempts": 0,
+  "turns": 2,
+  "decision": null,
+  "approved_quote": null,
+  "selected_venue": null,
+  "quote": null,
+  "skill_activated": false,
+  "bulletin": "",
+  "checkpoint": "query",
+  "token_usage": {
+    "calls": 0,
+    "calls_started": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "reserved_usd": 0.0
+  }
+}

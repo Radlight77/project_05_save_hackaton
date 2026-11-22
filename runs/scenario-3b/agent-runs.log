@@ -1,0 +1,16 @@
+$ agent.py --no-skill  (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Нужно решение оператора: Образовательный центр QazTech Hub, 350000 KZT. Используйте --approve или --reject.
+
+--- stderr ---
+
+
+$ agent.py --approve --no-skill  (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Площадка: Образовательный центр QazTech Hub (V-HUB), 350 000 KZT. Команд в сетке: 6. Уведомлений доставлено: 8.
+
+--- stderr ---
+
+

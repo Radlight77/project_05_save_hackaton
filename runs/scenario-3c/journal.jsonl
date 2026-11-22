@@ -1,0 +1,7 @@
+{"time":"2026-11-22T15:31:51.578+00:00","event":"call","tool":"read_roster","turn":1,"checkpoint":"query"}
+{"time":"2026-11-22T15:31:51.581+00:00","event":"tool_start","tool":"read_roster"}
+{"time":"2026-11-22T15:31:51.585+00:00","event":"tool_end","tool":"read_roster","code":"ok"}
+{"time":"2026-11-22T15:31:51.591+00:00","event":"call","tool":"team_status","turn":2,"checkpoint":"query"}
+{"time":"2026-11-22T15:31:51.594+00:00","event":"tool_start","tool":"team_status"}
+{"time":"2026-11-22T15:31:51.596+00:00","event":"tool_end","tool":"team_status","code":"ok"}
+{"time":"2026-11-22T15:31:51.621+00:00","event":"lookup","team":"T-01","source":"teams.json"}

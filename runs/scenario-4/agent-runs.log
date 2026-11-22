@@ -1,0 +1,16 @@
+$ agent.py   (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Нужно решение оператора: Образовательный центр QazTech Hub, 350000 KZT. Используйте --approve или --reject.
+
+--- stderr ---
+
+
+$ agent.py --approve  (CRASH_AT=-)
+код возврата: 1
+--- stdout ---
+no_capacity
+
+--- stderr ---
+
+

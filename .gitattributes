@@ -1,0 +1,3 @@
+# Preserve the original fixture, grader and recorded evidence bytes on each platform.
+* -text
+*.db binary
